@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+
+    --background-color: #727372; 
+
+    --textos: #141414;
+
+    --cinza: #6e6e6e;
+    --laranja-claro: #F58220;
+    --laranja-escuro: #F15A22;
+    --verde-claro: #D7DF23;
+    --verde-escuro: #8DC63F;
+    --roxo-claro: #89608E;
+    --azul: #1074AB;
+
+    --roboto: 'Roboto', sans-serif;
+}
+
+body{
+    background: linear-gradient(90deg, var(--cinza), var(--laranja-claro), var(--laranja-escuro), var(--verde-claro), var(--verde-escuro), var(--roxo-claro), var(--azul));
+}
+
+.container{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.avatar-name-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar-thiago{
+    width: 43.0rem;
+    height: 43.0rem;
+}
+
+.wrapper-name-links{
+}
+
+.list-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 3.0rem;
+    padding-top: 6.0rem;
+}
+
+.icons{
+    width: 7.2rem;
+    height: 7.2rem;
+}
+
+.icons:hover{
+    width: 7.6rem;
+    height: 7.6rem;
+    box-shadow: rgba(255, 255, 255, 1) 0.6rem 0.2rem 1.6rem 0rem, rgba(255, 255, 255, 1) -0.6rem -0.2rem 1.6rem 0rem;
+    transition: ease-in-out 0.3s;
+}
+
+.text{
+    font-family: var(--roboto);
+    color: var(--textos);
+    text-align: center;
+}
+
+.name{
+    font-size: 4.4rem;
+    font-weight: 700;
+}
+
+.madeBy{
+    font-size: 1.7rem;
+    font-weight: 400;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*=============== RESPONSIVO ======================*/
+
+@media (max-width: 875px) {
+    
+
+
+}
