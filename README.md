@@ -8,7 +8,7 @@
 | -------------  | --- |
 | :bookmark: Nome        | **Página com organizador de links**
 | :gear: Tecnologias | HTML, CSS, Figma
-| :earth_americas: URL         | https://thiagokubrusly.github.io/desafio-desenvolve-linktree/
+| :earth_americas: URL         | https://thiagokubrusly.github.io/desafio-desenvolve-organizador-de-links/
 | :crossed_swords: Desafio     | Turma 02 - Programa Desenvolve
 
 ## Tecnologias
