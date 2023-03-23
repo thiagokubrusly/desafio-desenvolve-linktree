@@ -1,4 +1,4 @@
-# desafio-desenvolve-organizador-de-links
+# Desafio Desenvolve: página com organizador de links
 
 <p>Primeiro desafio da minha turma do Programa Desenvolve, do Grupo Boticário, para codar uma página com os links para as minhas redes sociais.</p>
 <p>A página já está responsiva.</p>
